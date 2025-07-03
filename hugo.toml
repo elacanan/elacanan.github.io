@@ -42,3 +42,7 @@ theme = "hello-friend-ng"
     name = "About me"
     url = "/about/"
     weight = 1
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
