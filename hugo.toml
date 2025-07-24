@@ -32,6 +32,12 @@ theme = "hello-friend-ng"
     rel = "noopener noreferrer"
     target = "_blank"
 
+  [[params.social]]
+    name = "substack"
+    url  = "https://elaalbiston.substack.com"
+    rel = "noopener noreferrer"
+    target = "_blank"
+
 [menu]
   [[menu.main]]
     name = "Resume"
