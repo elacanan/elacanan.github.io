@@ -1,6 +1,6 @@
 baseURL = "https://elacanan.github.io/"
 languageCode = "en-us"
-title = "Hey, I'm Ela."
+title = "Hi, I'm Ela."
 theme = "hello-friend-ng"
 
 [params]

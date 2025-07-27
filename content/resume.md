@@ -3,7 +3,7 @@ date = '2025-07-02T20:10:37-05:00'
 title = 'Resume'
 +++
 
-Highly motivated, team-oriented software engineer with a track record of developing tools to address novel scientific problems and leading teams in both technical and community settings. Capacity to learn rapidly and commitment to excellence have allowed contributions in sports neurotechnology, neuroscientific research, and defense systems. Seeking opportunities to learn from expert engineers while contributing to cutting-edge technology.
+Highly motivated, team-oriented software engineer with a track record of developing tools to address novel scientific problems and leading teams in both technical and community settings. Capacity to learn rapidly and commitment to excellence have allowed contributions in neurotechnology, neuroscientific research, defense systems, and data storage infrastructure. Seeking opportunities to learn from expert engineers while contributing to cutting-edge technology.
 
 **SKILLS**
 
