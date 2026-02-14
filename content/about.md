@@ -24,6 +24,8 @@ More recently, I spent a summer as a software engineer intern at Mach Industries
 
 Currently, I'm a full time software engineer at Dell Technologies in Austin, Texas. My team focuses on data mobility in PowerStore, an all-flash storage array used for a variety of business-critical transactional workloads. To ensure that customer data is always accessible, as well as securely and efficiently replicated, I debug and optimize critical Java components of PowerStore's management services. I also add and refine unit tests to improve software reliability, while leveraging Jenkins and RxJava to streamline CI/CD pipelines and improve asynchronous operations.
 
+In addition to working full time as a software engineer, I am pursing my Master's in Computer Science from Georgia Tech. I started the OMSCS program in January of 2025 and I'm looking forward to learning more about robotics and AI/ML!
+
 *I'm always open to learning about exciting opportunities. Please see my resume [here](/resume/).*
 
 *If you want to read about what projects I am working on at the moment, visit my [Substack blog!](https://elaalbiston.substack.com)*
