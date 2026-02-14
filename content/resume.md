@@ -15,6 +15,13 @@ Highly motivated, team-oriented software engineer with a track record of develop
 
 **EDUCATION**
 
+Georgia Institute of Technology, Atlanta, GA -- Jan 2025 - Present
+
+Master of Science in Computer Science
+
+*Relevant Coursework:* Robotics: AI Techniques
+
+
 The University of Texas at Austin, Austin, TX -- May 2024
 
 Bachelor of Science in Neuroscience, Certificate in Computer Science
